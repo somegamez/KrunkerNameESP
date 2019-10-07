@@ -9,7 +9,7 @@ This is just another way to "cheat" without modifiying the `game.js` logic.
 2. Open the console by pressing F12 and going to the console tab
 3. Copy paste the code from `esp.js` into the console. Do not execute yet
 4. Navigate to krunker
-5. Execute the pasted code before the game finishes loading
+5. Execute the pasted code before the you enter your first game
 
 ## Tampermonkey script
 Copy paste the code from `esp.js` into a new tamper monkey script
